@@ -21,6 +21,8 @@ For TWRP or Magisk modules, join the Adreno <a href="https://t.me/adreno_konabes
 - [Skyline](docs/skyline.md)
 - Strato (In works)
 - [Vita3K](docs/vita3k.md)
+- [Yuzu Android](docs/yuzu_android.md)
 - [Dolphin](docs/dolphin.md)
+
 
 For any questions contact me on the <a href="https://discord.gg/YhpdhVBmXX">Strato Emulator Official Discord</a>.
